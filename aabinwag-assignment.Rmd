@@ -1,0 +1,28 @@
+---
+title: "Reflection on the video, Hello Quarto!"
+author: "Aepril Jean A. Binwag"
+date: "2022-11-22"
+output: html_document
+---
+
+### **ASSIGNMENT**
+
+## 1. What package are they talking about?
+
+-   They are talking about the package Quarto.
+
+## 2.  Why is there a need to shift from Rmarkdown to the said package?
+
+-   It's because Quarto is much more powerful as it enables you to weave together content and executable code into a finished document. Another, Quarto is at its core multi-language and multi-engine (supporting Knitr, Jupyter, and Observable today and potentially other engines tomorrow). On the other hand, R Markdown is fundamentally tied to R which severely limits the number of practitioners it can benefit. Lastly, there are also a lot of advantages of using Quarto such as you can export Quarto documents in more than 40 different file formats including Word, OpenOffice, PowerPoint, ePub, Jira Wiki, Jupyter, Observable JS, complete websites, and ebooks. R Markdown can generate some of those, but not all.
+
+## 3.  What inspired/sparked the said shift?
+
+-   Its all due to the powerful features of Quarto compared to the different packages such as rmarkdown. And from the video, the different speakers explained why is there a need to shift to Quarto. Julie Lowndes, the founder of openscapes said that, "Quarto is super powerful and then it is all of that functionality is also extended beyond R so into Python and javascript." She also added that, "as a system quarto really unifies the rmarkdown world by combining the functionality of creating books with book down, creating simple websites with distill and creating slides with Sheringan into one consistent approach.
+
+## 4.  Are you up to the challenge of the said shift; learning it and applying it in your future career as Math teachers?
+
+-   Maybe because as a beginner there are still a lot to get familiarize with. However, as a future Math teacher I'll take that as a challenge since this package will indeed be a very good help in teaching. This can be a powerful tool to utilize especially in modelling.
+
+## 5.  What cool feature in the package did you like best? Please discuss. Thanks.
+
+-   The feature of Quarto I like the best is the one that you can create a simple website. Using Quarto, you can publish collections of documents as a blog or full website. In short Quarto websites are a convenient way to publish groups of documents. You can also create books and manuscripts in both print formats (PDF and MS Word) and online formats (HTML and ePub).
